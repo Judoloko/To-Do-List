@@ -27,6 +27,10 @@ O projeto To Do List é uma aplicação simples para ajudar você a organizar su
 
 2. Comece adicionando suas tarefas.
 
+### Acesso ao Projeto
+
+Você pode acessar o projeto To-Do List [aqui](https://judoloko.github.io/To-Do-List/).
+
 ## Contribuindo
 
 Se você deseja contribuir para o desenvolvimento deste projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
