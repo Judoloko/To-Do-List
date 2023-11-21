@@ -41,4 +41,4 @@ Este projeto é licenciado sob a Licença MIT.
 
 ## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato comigo pelo [Linkdin](https://www.linkedin.com/in/daniel-j%C3%BAnior/).
+Para qualquer dúvida ou sugestão, entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/daniel-j%C3%BAnior/).
